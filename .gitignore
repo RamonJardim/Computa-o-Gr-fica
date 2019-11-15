@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Atividade1-CG/x64/Debug
+/Atividade1-CG/Debug
+/Atividade1-CG/.vs/ComputacaoGrafica/v16
+/Atividade02-CG - GL_TRIANGLES/Debug
+/Atividade02-CG - GL_QUADS/Debug
+/Atividade02-CG - GL_POINTS/Debug
+/Atividade02-CG - GL_LINES/Debug
+/Atividade01-CG/Debug
+*.user
